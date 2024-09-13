@@ -1,0 +1,29 @@
+﻿Author Year,DOI,Study Type,Cancer Type,Diabetes Cohort,Diabetes Percentage Cases,Percentage Late Stage,Weight Loss Timing,Self Reported Weight Loss,Percentage Tumour Location Head,Percentage Male,Mean Age,Average Type,Sample Size,Weight Loss (kg),Weight Loss SD,Imputed SD Covariance 0.44,Imputed SD Covariance 0.51,Imputed SD Largest,Imputed SD Endpoint,Imputed SD Average,Imputed SD Baseline
+Babic et al. (2023),10.1038/s41467-023-40024-3,Retrospective,all,mixed,27,49,usual weight,no,unknown,52,67.1,median,714,5.2,6.22,,,,,,
+Bachmann et al. (2008)*^,10.1007/s11605-008-0505-z,Prospective Observational,PDAC,mixed,30.84,59.03,usual weight,yes,unknown,59.47,51.89,median,227,6.05,5.01,,,,,,
+Bibby et al. (2022)~,10.1111/jhn.13040,Prospective Observational,all,mixed,21.2,unknown,9 months,yes,unknown,51.1,69,median,137,4.65,7.43,,,,,,
+Bye et al. (2013)*~,10.1007/s00520-012-1514-8,Prospective Observational,PDAC,mixed,18,unknown,usual weight,yes,unknown,53.85,62,median,39,11,15.56,18.59,14.48,15.56,13.45,5.66,15.56
+Chari et al. (2008),10.1053/j.gastro.2007.10.040,Case-Control,all,yes,100,unknown,48 months,no,unknown,55.7,69.7,mean,60,6.4,8.3,0,0,,,,
+Dugnani et al. (2016a)^,"10.1016/j,pan.2016.08.005",Prospective Observational,PDAC,mixed,63.64,20.8,12 months,no,unknown,52.73,68.33,median,330,4.86,5.4,0,0,,,,
+Dugnani et al. (2016a),,Prospective Observational,PDAC,yes,100,20.68,12 months,no,unknown,55.24,67.23,median,210,5.35,5.02,0,0,,,,
+Dugnani et al. (2016a),,Prospective Observational,PDAC,no,0,21,12 months,no,unknown,48.33,65.3,median,120,4,5.93,0,0,,,,
+Dugnani et al. (2016b)^,10.1007/s00592-016-0893-6,Prospective Observational,PDAC,mixed,33.45,17.21,12 months,no,73.42,52.7,66.9,median,296,5,5.4,0,0,,,,
+Dugnani et al. (2016b)^,,Prospective Observational,PDAC,yes,100,23.2,12 months,no,75,61.62,67.1,median,99,5,5.93,0,0,,,,
+Dugnani et al. (2016b),,Prospective Observational,PDAC,no,0,14.2,12 months,no,73,48.22,66.8,median,197,5,4.44,0,0,,,,
+Hart et al. (2011)~,10.1097?MPA.0b013e318220816a,Case-Control,all,yes,100,unknown,12 months,no,unknown,37.9,76.4,mean,29,10.4,17.5,20.58,15.98,17.5,14.3,5.66,17.5
+Hue et al. (2021)*,10.1245/s10434-021-09861-8,Case-Control,PDAC,unknown,,64.1,12 months,no,unknown,43.3,71,median,390,6.45,7.41,0,0,,,,
+Jabłońska et al. (2021),10.3390/cancers13205041,Retrospective,all,mixed,35,unknown,4 months,yes,72.5,50,65.44,mean,80,7.77,8.33,0,0,,,,
+Jeon et al. (2021)^~,"10.1158/1055-9965,EPI-21-0712",Cohort,PDAC,yes,100,unknown,12 months,no,unknown,97.73,65.73,median,11599,0.84,19.62,17.56,17.72,19.62,4.61,5.66,19.62
+Lee et al. (2012),10.1097/MCG.0b013e318238348c,Case-Control,all,yes,100,unknown,usual weight,no,unknown,57.6,61.3,mean,151,4.1,4.7,0,0,,,,
+Ma et al. (2022)*,10.1111/1753-0407.13259,Retrospective,PDAC,yes,100,22.5,usual weight,no,59.9,59.1,62.9,median,521,5,1.67,,,,,,
+Nemer et al. (2017),10.1097/MPA.0000000000000898,Retrospective ,PDAC,mixed,41.46,47.97,usual weight,yes,unknown,51.22,65.88,mean,123,8.56,7.93,0,0,,,,
+Olson et al. (2016)^,10.1097/MPA.0000000000000590,Case-Control,PDAC,mixed,15,60,usual weight,yes,,54,64.3,mean,510,6.38,7.41,0,0,,,,
+Pannala et al. (2008),10.1053/j.gastro.2008.01.039,Case-Control,all,mixed,39,54,usual weight,yes,68.85,57,66,mean,512,11.42,9.12,0,0,,,,
+Pannala et al. (2008),,Case-Control,all,yes,100,unknown,usual weight,yes,72,61,68,mean,243,13,10,0,0,,,,
+Pannala et al. (2008),,Case-Control,all,no,0,unknown,usual weight,yes,66,54,64,mean,269,10,8,0,0,,,,
+Sah et al. 2019~,10.1053/j.gastro.2019.01.039,Case-control,PDAC,unknown,,unknown,12 months,no,unknown,51,71.2,mean,160,4.1,19.5,24.71,18.65,19.5,18.1,5.66,19.5
+Talar-Wojnarowska et al. (2020),10.26402/jpp.2020.1.10,Cohort,PDAC,unknown,,42.47,6 months,yes,unknown,58.9,69,mean,73,8.1,0.7,0,0,,,,
+Trestini et al. (2020)~,10.1245/s10434-020-08515-5,Retrospective analysis of medical records,PDAC,unknown,,32.9,6 months,yes,unknown ,56.2,65,mean,73,5.4,15.1,17.79,13.95,15.1,12.8,5.66,15.1
+Yuan et al. (2020)^,10.1001/jamaoncol.2020.2948,Cohort,all,mixed,20.23,64.99,12 months,yes,unknown,,,mean,766,1.17,5.28,0,0,,,,
+Yuan et al. (2020)^,,Cohort,all,yes,100,73.24,12 months,yes,unknown,,,mean,155,2.23,6.22,0,0,,,,
+Yuan et al. (2020),,Cohort,all,no,0,62.9,12 months,yes,unknown, ,,mean,611,0.91,4.99,0,0,,,,

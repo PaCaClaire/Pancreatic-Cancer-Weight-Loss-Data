@@ -1,0 +1,17 @@
+﻿Author Year,DOI,Study Type,Cancer Type,Diabetes Cohort,Diabetes Percentage Cases,Percentage Late Stage,Weight Loss Timing,Self Reported Weight Loss,Percentage Tumour Location Head,Percentage Male Cases,Mean Age Cases,Average Type,Sample Size Cases,BMI Change Cases,BMI Change Cases SD,Imputed SD Cases Covariance 0.44,Imputed SD Cases Covariance 0.51,Imputed SD Cases Largest,Imputed SD Cases Endpoint,Imputed SD Cases Baseline
+Babic et al. (2023),10.1038/s41467-023-40024-3,Retrospective,all,mixed,27,49,usual weight,no,unknown,52,67.1,median,714,-1.8,2.1,,,,,
+Chakedis et al. (2022)^~,10.1002/rco2.68,Prospective Observational,PDAC,mixed,28.23,13.21,usual weight,yes,unknown,50.94,65.98,mean,53,-1.98,6.77,6.93,6.49,6.77,6.31,6.77
+Chari et al. (2008)~,,Case-Control,all,yes,100,unknown,48 months,no,unknown,55.7,69.7,mean,81,-1.8,5.8,5.67,5.32,5.8,4.8,5.8
+Jachnis and Slodkowski (2021)~,10.3390/curroncol28060406,Prospective Observational,all,mixed,53.9,22.37,usual weight,yes,72.4,53.9,65.32,mean,76,-2.81,4.83,4.99,4.67,4.83,4.59,4.83
+Lemanska et al. (2022)~,10.1371/journal.pone.0275369,Case-Control,all,mixed,30.35,unknown,12 months,no,unknown,50.3,72.1,mean,8777,-2.5,9.56,9.08,8.54,9.56,7.17,9.56
+Lemanska et al. (2022)~,,Case-Control,all,yes,100,unknown,12 months,no,unknown,50.3,72.1,mean,2664,-2.9,7.9,7.74,7.26,7.9,7.9,6.58
+Lemanska et al. (2022)~,,Case-Control,all,no,0,unknown,12 months,no,unknown,50.3,72.1,mean,6113,-2,11.97,11.09,10.47,11.97,11.97,7.98
+Nemer et al. (2017)~,10.1097/MPA.0000000000000898,Retrospective,PDAC,mixed,41.46,47.97,usual weight,yes,unknown,51.22,65.88,mean,123,-3.14,7.92,7.93,7.43,7.92,7,7.92
+Pannala et al. (2008)~,10.1053/j.gastro.2008.01.039,Case-Control,all,mixed,39,54,usual weight,yes,68.85,57,66,mean,512,-3,5,5.29,4.95,5,5,5
+Pannala et al. (2008)~,,Case-Control,all,yes,100,unknown,usual weight,yes,72,61,68,mean,243,-4,6,5.88,5.51,6,5,6
+Pannala et al. (2008)~,,Case-Control,all,no,0,unknown,usual weight,yes,66,54,64,mean,269,-2,5,5.29,4.95,5,5,5
+Ramsey et al. (2019)~,10.1016/j.pan.2018.11.002,Retrospective,PDAC,unknown,,54.5,12 months,yes,55.6,54.4,65.5,mean,136,-2.9,6.5,6.37,5.97,6.5,5.4,6.5
+Souza et al. (2007)~,10.1159/000104244,Retrospective,PDAC,mixed,37.29,58.78,3.5 months,yes,79,44.66,60.84,mean,118,-3.8,6.27,6.39,5.99,6.52,5.43,6.52
+Souza et al. (2007)~,,Retrospective,PDAC,yes,100,64,3.5 months,yes,77,31.25,62.6,mean,44,-5,6.63,6.42,6.02,6.63,5.31,6.63
+Souza et al. (2007)~,,Retrospective,PDAC,no,0,50,3.5 months,yes,79,52.63,59.8,mean,74,-3.4,6.02,5.96,5.58,6.02,5.16,6.02
+Trestini et al. (2020)~,10.1245/s10434-020-08515-5,Retrospective,PDAC,unknown,,32.9,6 months,yes,unknown ,56.2,65,mean,73,-2.1,4.3,4.5,4.21,4.3,4.3,4.2
