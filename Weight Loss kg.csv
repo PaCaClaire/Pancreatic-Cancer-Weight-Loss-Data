@@ -1,29 +1,29 @@
-﻿AuthorYear,Country,StudyType,CancerType,DiabetesCohort,DiabetesPercentageCases,PercentageLateStage,WeightLossTIming,SelfReported,TumourLocationHead,PercentageMalePaCa,MeanAgePaCa,AverageType,SampleSizePaCa,WeightLossPaCa,PaCaSD
-Babic et al. (2023),USA,Retrospective,all,mixed,27,49,usual weight,no,unknown,52,67.1,median,714,5.2,6.22
-Bachmann et al. (2008)*^,Germany,Prospective Observational,PDAC,mixed,30.84,59.03,usual weight,yes,unknown,59.47,51.89,median,227,6.05,5.01
-Bibby et al. (2022)~,UK,Prospective Observational,all,mixed,21.2,unknown,9 months,yes,unknown,51.1,69,median,137,4.65,7.43
-Bye et al. (2013)*,Norway,Prospective Observational,PDAC,mixed,18,unknown,usual weight,yes,unknown,53.85,62,median,39,11,15.56
-Chari et al. (2008),USA,Case-Control,all,yes,100,unknown,48 months,no,unknown,55.7,69.7,mean,60,6.4,8.3
-Dugnani et al. (2016a)^,Italy,Prospective Observational,PDAC,mixed,63.64,20.8,12 months,no,unknown,52.73,68.33,median,330,4.86,5.4
-Dugnani et al. (2016a),Italy,Prospective Observational,PDAC,yes,100,20.68,12 months,no,unknown,55.24,67.23,median,210,5.35,5.02
-Dugnani et al. (2016a),Italy,Prospective Observational,PDAC,no,0,21,12 months,no,unknown,48.33,65.3,median,120,4,5.93
-Dugnani et al. (2016b)^,Italy,Prospective Observational,PDAC,mixed,33.45,17.21,12 months,no,73.42,52.7,66.9,median,296,5,5.4
-Dugnani et al. (2016b)^,Italy,Prospective Observational,PDAC,yes,100,23.2,12 months,no,75,61.62,67.1,median,99,5,5.93
-Dugnani et al. (2016b),Italy,Prospective Observational,PDAC,no,0,14.2,12 months,no,73,48.22,66.8,median,197,5,4.44
-Hart et al. (2011)~,USA,Case-Control,all,yes,100,unknown,12 months,no,unknown,37.9,76.4,mean,29,10.4,17.5
-Hue et al. (2021)*,USA,Case-Control,PDAC,unknown,,64.1,12 months,no,unknown,43.3,71,median,390,6.45,7.41
-Jabłońska et al. (2021),Poland,Retrospective,all,mixed,35,unknown,4 months,yes,72.5,50,65.44,mean,80,7.77,8.33
-Jeon et al. (2021)^~,USA,Cohort,PDAC,yes,100,unknown,12 months,no,unknown,97.73,65.73,median,11599,0.84,19.62
-Lee et al. (2012),Korea,Case-Control,all,yes,100,unknown,usual weight,no,unknown,57.6,61.3,mean,151,4.1,4.7
-Ma et al. (2022)*,China,Retrospective,PDAC,yes,100,22.5,usual weight,no,59.9,59.1,62.9,median,521,5,1.67
-Nemer et al. (2017),USA,Retrospective,PDAC,mixed,41.46,47.97,usual weight,yes,unknown,51.22,65.88,mean,123,8.56,7.93
-Olson et al. (2016)^,USA,Case-Control,PDAC,mixed,15,60,usual weight,yes,,54,64.3,mean,510,6.38,7.41
-Pannala et al. (2008),USA,Case-Control,all,mixed,39,54,usual weight,yes,68.85,57,66,mean,512,11.42,9.12
-Pannala et al. (2008),USA,Case-Control,all,yes,100,unknown,usual weight,yes,72,61,68,mean,243,13,10
-Pannala et al. (2008),USA,Case-Control,all,no,0,unknown,usual weight,yes,66,54,64,mean,269,10,8
-Sah et al. (2019)~,USA,Case-Control,PDAC,unknown,,unknown,12 months,no,unknown,51,71.2,mean,160,4.1,19.5
-Talar-Wojnarowska et al. (2020),Poland,Cohort,PDAC,unknown,,42.47,6 months,yes,unknown,58.9,69,mean,73,8.1,0.7
-Trestini et al. (2020)~,Italy,Retrospective,PDAC,unknown,,32.9,6 months,yes,unknown ,56.2,65,mean,73,5.4,15.1
-Yuan et al. (2020)^,USA,Cohort,all,mixed,20.23,64.99,12 months,yes,unknown,,,mean,766,1.17,5.28
-Yuan et al. (2020)^,USA,Cohort,all,yes,100,73.24,12 months,yes,unknown,,,mean,155,2.23,6.22
-Yuan et al. (2020),USA,Cohort,all,no,0,62.9,12 months,yes,unknown, ,,mean,611,0.91,4.99
+﻿Author,Year,Country,StudyType,CancerType,DiabetesCohort,DiabetesPercentageCases,PercentageLateStage,WeightLossTiming,SelfReported,TumourLocationHead,PercentageMale,MeanAge,SampleSize,WeightLosskg,SD
+Babic et al.,(2023),USA,Retrospective,all,mixed,27,49,usual weight,no,unknown,52,67.1,714,5.2,6.22
+Bachmann et al.,(2008),Germany,Prospective Observational,PDAC,mixed,30.84,59.03,usual weight,yes,unknown,59.47,51.89,227,6.05,5.01
+Bibby et al.,(2022),UK,Prospective Observational,all,mixed,21.2,unknown,9 months,yes,unknown,51.1,69,137,4.65,7.43
+Bye et al.,(2013),Norway,Prospective Observational,PDAC,mixed,18,unknown,usual weight,yes,unknown,53.85,62,39,11,15.56
+Chari et al.,(2008),USA,Case-Control,all,yes,100,unknown,48 months,no,unknown,55.7,69.7,60,6.4,8.3
+Dugnani et al.,(2016a),Italy,Prospective Observational,PDAC,mixed,63.64,20.8,12 months,no,unknown,52.73,68.33,330,4.86,5.4
+Dugnani et al.,(2016a),Italy,Prospective Observational,PDAC,yes,100,20.68,12 months,no,unknown,55.24,67.23,210,5.35,5.02
+Dugnani et al.,(2016a),Italy,Prospective Observational,PDAC,no,0,21,12 months,no,unknown,48.33,65.3,120,4,5.93
+Dugnani et al.,(2016b),Italy,Prospective Observational,PDAC,mixed,33.45,17.21,12 months,no,73.42,52.7,66.9,296,5,5.4
+Dugnani et al.,(2016b),Italy,Prospective Observational,PDAC,yes,100,23.2,12 months,no,75,61.62,67.1,99,5,5.93
+Dugnani et al.,(2016b),Italy,Prospective Observational,PDAC,no,0,14.2,12 months,no,73,48.22,66.8,197,5,4.44
+Hart et al.,(2011),USA,Case-Control,all,yes,100,unknown,12 months,no,unknown,37.9,76.4,29,10.4,17.5
+Hue et al.,(2021),USA,Case-Control,PDAC,unknown,,64.1,12 months,no,unknown,43.3,71,390,6.45,7.41
+Jabłońska et al.,(2021),Poland,Retrospective,all,mixed,35,unknown,4 months,yes,72.5,50,65.44,80,7.77,8.33
+Jeon et al.,(2021),USA,Cohort,PDAC,yes,100,unknown,12 months,no,unknown,97.73,65.73,11599,0.84,19.62
+Lee et al.,(2012),Korea,Case-Control,all,yes,100,unknown,usual weight,no,unknown,57.6,61.3,151,4.1,4.7
+Ma et al.,(2022),China,Retrospective,PDAC,yes,100,22.5,usual weight,no,59.9,59.1,62.9,521,5,1.67
+Nemer et al.,(2017),USA,Retrospective,PDAC,mixed,41.46,47.97,usual weight,yes,unknown,51.22,65.88,123,8.56,7.93
+Olson et al.,(2016),USA,Case-Control,PDAC,mixed,15,60,usual weight,yes,,54,64.3,510,6.38,7.41
+Pannala et al.,(2008),USA,Case-Control,all,mixed,39,54,usual weight,yes,68.85,57,66,512,11.42,9.12
+Pannala et al.,(2008),USA,Case-Control,all,yes,100,unknown,usual weight,yes,72,61,68,243,13,10
+Pannala et al.,(2008),USA,Case-Control,all,no,0,unknown,usual weight,yes,66,54,64,269,10,8
+Sah et al.,(2019),USA,Case-Control,PDAC,unknown,,unknown,12 months,no,unknown,51,71.2,160,4.1,19.5
+Talar-Wojnarowska et al.,(2020),Poland,Cohort,PDAC,unknown,,42.47,6 months,yes,unknown,58.9,69,73,8.1,0.7
+Trestini et al.,(2020),Italy,Retrospective,PDAC,unknown,,32.9,6 months,yes,unknown ,56.2,65,73,5.4,15.1
+Yuan et al.,(2020),USA,Cohort,all,mixed,20.23,64.99,12 months,yes,unknown,,,766,1.17,5.28
+Yuan et al.,(2020),USA,Cohort,all,yes,100,73.24,12 months,yes,unknown,,,155,2.23,6.22
+Yuan et al.,(2020),USA,Cohort,all,no,0,62.9,12 months,yes,unknown, ,,611,0.91,4.99
