@@ -1,0 +1,51 @@
+SEARCH STRINGS
+==============
+
+Systematic review: Weight loss prior to pancreatic cancer diagnosis
+PROSPERO registration: CRD42022302985
+
+Search platform: PubMed (Advanced Search), and equivalent platforms for
+Web of Science, Embase, Scopus and Cochrane Library (see field mapping
+below).
+
+The same five-line concept structure was used across all five databases.
+Concepts were combined with AND; terms within each concept were combined
+with OR.
+
+--------------------------------------------------------------------------
+CORE SEARCH STRATEGY (as run in PubMed)
+--------------------------------------------------------------------------
+
+1. (Pancreas OR Pancreatic) ab.ti
+2. (Ductal Adenocarcinoma OR PDAC OR Cancer OR Malignancy OR Adenocarcinoma
+    OR Tumour OR Tumor) ab.ti
+3. (Weight OR BMI OR Body Mass Index) ab.ti
+4. (loss OR decrease OR change) ab.ti
+5. diagnos* ab.ti
+
+Combined as: 1 AND 2 AND 3 AND 4 AND 5
+
+--------------------------------------------------------------------------
+FIELD MAPPING BY DATABASE
+--------------------------------------------------------------------------
+
+The same search string (above) was applied in every database. Only the
+title/abstract field code differs by platform:
+
+Database                         Field searched
+----------------------------------------------------------------
+PubMed                           Abstract/Title (ab.ti)
+Web of Science                   Topic field
+Embase                           Title/Abstract/Author Keywords field
+Scopus                           Title/Abstract/Keywords field
+Cochrane Library                 Title/Abstract/Keyword field
+
+--------------------------------------------------------------------------
+NOTES
+--------------------------------------------------------------------------
+
+- No date, language, or publication-type filters were applied at the
+  search stage.
+- Searches were conducted up to March 2025.
+- Full screening results (titles/abstracts and full texts) are
+  summarised in the PRISMA flow diagram (Figure 1 of the manuscript).

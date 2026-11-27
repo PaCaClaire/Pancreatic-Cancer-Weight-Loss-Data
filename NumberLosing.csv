@@ -1,0 +1,17 @@
+﻿Author,Year,StudyType,CancerType,DiabetesCohort,Country,DiabetesPercentageCases,PercentageLateStage,WeightLossTIming,WeightTIming,SelfReported,TumourLocationHead,PercentageMale,MeanAge,SampleSize,PercentageLosingWeight,NumberLostWeight
+Bye et al.,2013,Prospective Observational,PDAC,mixed,Norway,18,unknown,usual weight,usual weight,yes,unknown,53.9,62,39,0.95,37
+Casadei et al.,2022,Retrospective,PDAC,mixed,Italy,23.8,41.8,usual weight,usual weight,no,60.6,52.5,72.1,1407,0.31,439
+Hosokawa et al.,2023,Retrospective,all,mixed,Japan,31.8,95,usual weight,usual weight,yes,41,49.1,74,220,0.4,95
+Jabłońska et al.,2021,Retrospective,all,mixed,Poland,35,unknown,4 months,other,yes,72.5,50,65.4,80,0.39,31
+Menozzi et al.,2023,Retrospective,all,unknown,Italy,unknown,unknown,usual weight,usual weight,no,unknown,59.2,68.7,103,0.73,75
+Nemer et al.,2017,Retrospective,PDAC,mixed,USA,41.5,47.97,usual weight,usual weight,yes,unknown,51.2,65.9,123,0.89,109
+Olson et al.,2016,Case-Control,PDAC,mixed,USA,15,60,usual weight,usual weight,yes,unknown,54,64.3,510,0.71,362
+Sahlström et al.,2022,Retrospective,PDAC,mixed,Sweden,24.7,20.6,usual weight,usual weight,no,unknown,50.4,67.6,1938,0.57,993
+Santos et al.,2021,Prospective Observational,all,unknown,Portugal,unknown,91.2,6 months,other,yes,unknown,56.1,69,41,0.68,28
+Souza et al.,2007,Retrospective,PDAC,mixed,Brazil,37.3,58.78,3.5 months,other,yes,79,44.7,60.8,118,0.6,71
+Souza et al.,2007,Retrospective,PDAC,yes,Brazil,100,64,3.5 months,other,yes,77,31.3,62.6,44,0.5,22
+Souza et al.,2007,Retrospective,PDAC,no,Brazil,0,50,3.5 months,other,yes,79,52.6,59.8,74,0.66,49
+Trestini et al.,2020,Retrospective,PDAC,unknown,Italy,unknown,32.9,6 months,other,yes,unknown,56.2,65,73,0.52,38
+Yuan et al.,2020,Cohort,all,mixed,USA,20.2,64.99,12 months,other,yes,unknown,34.7,70.5,766,0.51,389
+Yuan et al.,2020,Cohort,all,yes,USA,100,73.24,12 months,other,yes,unknown,unknown,unknown,155,0.62,96
+Yuan et al.,2020,Cohort,all,no,USA,0,62.9,12 months,other,yes,unknown,unknown,unknown,611,0.48,293
